@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "GOKULBHARATHI",
+    "receiver": "NETHRASHREE"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "you make my world beautiful. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖You just made me the happiest person alive!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, PONDATII",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/Snapchat-578988783.jpg",
+      "caption": "The photo that I liked so much"
+    },
+    {
+      "image": "/src/assets/couple_photo/Snapchat-1653591920.jpg", 
+      "caption": "Saree pic are so gorgeous"
+    },
+    {
+      "image": "/src/assets/couple_photo/Snapchat-1877859852.jpg",
+      "caption": "i love your long hair baby"
+    },
+    {
+      "image": "/src/assets/couple_photo/Snapchat-1361703695.jpg",
+      "caption": "When you made a smile like this my heart just collapsed"
+    },
+    {
+      "image": "/src/assets/couple_photo/Snapchat-469947116.jpg",
+      "caption": "your eyes melting me"
+    },
+    {
+      "image": "/src/assets/couple_photo/Snapchat-435821664.jpg",
+      "caption": "cutie"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Vazhithunaiye",
+      "duration": "3:38",
+      "album": "Dragon",
+      "artist": "",
+      "cover": "/src/assets/album-covers/dragon.jpg",
+      "audio": "/src/assets/songs/Vazhithunaiye.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Ennai-Vittu",
+      "duration": "4:05", 
+      "album": "Love today",
+      "artist": "",
+      "cover": "/src/assets/album-covers/lovef_today.jpg",
+      "audio": "/src/assets/songs/Ennai-Vittu.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Muzumathi",
+      "duration": "5:13",
+      "album": "Jodhaa Akbar",
+      "artist": "",
+      "cover": "/src/assets/album-covers/jodhaa akbar.jpg",
+      "audio": "/src/assets/songs/Muzumathi.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Adiye",
+      "duration": "4:32",
+      "album": "Bachelor",
+      "artist": "",
+      "cover": "/src/assets/album-covers/bachelor.jpg",
+      "audio": "/src/assets/songs/Adiye.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kadhal Kanave",
+      "duration": "4:08",
+      "album": "Mundasupatti",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mundasupatti.jpg",
+      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest PONDATIII,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nGOKULBHARATHI"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
